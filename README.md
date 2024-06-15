@@ -1,8 +1,12 @@
 ## **updating and fixing them converting to powershell**
 
 - removed epicgames installer
-- removed all programs installer
-- removed 7 zip installer 
+- removed Allinone
+- removed 7 zip installer
+- removed python
+- removed search and extract cudnn v118
+- removed visual studio  
+- removed dxcammod
 
 
 **[KernFerm/WinRAR](https://github.com/KernFerm/WinRAR)**
