@@ -1,8 +1,8 @@
 ## **updating and fixing them converting to powershell**
 
-removed epicgames installer
-removed all programs installer
-removed 7 zip installer 
+- removed epicgames installer
+- removed all programs installer
+- removed 7 zip installer 
 
 
 **[KernFerm/WinRAR](https://github.com/KernFerm/WinRAR)**
