@@ -2,7 +2,7 @@
 [Forked From zcban1/autoinstalll-program](https://github.com/zcban1/autoinstalll-program)
 - removed epicgames installer
 - removed Allinone
-- removed 7 zip installer
+- removed 7 zip installer added winrar instead
 - removed python
 - removed search and extract cudnn v118
 - removed visual studio  
